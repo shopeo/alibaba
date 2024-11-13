@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<ruleset name="SHOPEO Theme Scaffold">
+<ruleset name="Trade ACE">
 	<description>Theme dev PHP_CodeSniffer ruleset.</description>
 	<file>.</file>
 
